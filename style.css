@@ -113,6 +113,8 @@ p {
     padding-bottom: 15px;
     margin-right: 30px;
     display: flex;
+    align-items: center;
+    justify-content: center;
     width: 50vw;
     height: 90px;
     background-color: black;
